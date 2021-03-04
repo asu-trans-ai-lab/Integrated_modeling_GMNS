@@ -18,7 +18,7 @@ Step | Description | Software | Input Files | Output Files
 2 | Convert GTFS data to GMNS | [GTFS2GMNS](https://github.com/asu-trans-ai-lab/GTFS2GMNS) | Open transit data GTFS| Node.csv, Link.csv, poi.csv 
 3 | Expand macroscopic network data to micro, meso | [net2cell](https://github.com/asu-trans-ai-lab/net2cell) | Node.csv, Link.csv | Meso and micro networks in node.csv and link.csv 
 4 | Zone-to-zone travel demand | [grid2demand](https://github.com/asu-trans-ai-lab/grid2demand) | Node.csv, Link.csv, Poi.csv, Poi_trip_rate.csv | Demand.csv, Zone.csv, Accessibility.csv, Input_agent.csv 
-5 | Traffic signal for timing | Signal2timing (In development), [Sigma-X](https://github.com/milan1981/Sigma-X) | Node.csv, Link.csv, Movement.csv | Timing.csv 
+5 | Traffic signal timing tool | Signal2timing (In development), [Sigma-X](https://github.com/milan1981/Sigma-X) | Node.csv, Link.csv, Movement.csv | Timing.csv 
 6 | AMS simulation | [A/B Street](https://github.com/dabreegster/abstreet), [DTALite](https://github.com/asu-trans-ai-lab/DTALite) | Demand.csv, Node.csv, Link.csv, Input_agent.csv | Agent.csv, Link_performance.csv 
 7 | Visualization | [QGIS](https://www.qgis.org/en/site/), [NeXTA](https://github.com/asu-trans-ai-lab/NeXTA-GMNS) | Node.csv, Link.csv, Movement.csv, Zone.csv, Demand.csv | - - 
 
