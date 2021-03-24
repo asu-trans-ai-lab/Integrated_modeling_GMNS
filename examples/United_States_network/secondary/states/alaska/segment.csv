@@ -1,0 +1,2 @@
+segment_id,link_id,ref_node_id,start_lr,end_lr,capacity,free_speed,bike_facility,ped_facility,parking,allowed_uses,l_lanes_added,r_lanes_added
+0,651,,115.86529771167841,564.5381499732323,,,,,,,1,
