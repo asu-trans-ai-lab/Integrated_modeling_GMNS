@@ -1,0 +1,151 @@
+2021-04-01 22:30:03,658 - grid2demand_0330a.py[line:658] - INFO: Number of zones including virtual zones = 45
+2021-04-01 22:30:03,782 - grid2demand_0330a.py[line:848] - WARNING: poi_trip_rate.csv does not exist in the current folder. Default values will be used.
+2021-04-01 22:30:03,786 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'warehouse' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,786 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'warehouse' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,786 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'prison' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,786 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'prison' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,786 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'school' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,786 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'industrial' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,786 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'industrial' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,786 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'parking' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,786 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'dormitory' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,787 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'dormitory' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,787 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'public' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,787 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'arts_centre' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,787 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'service' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,787 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'service' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,787 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'theatre' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,787 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'library' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,787 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'farm_auxiliary' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,787 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'farm_auxiliary' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,787 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'place_of_worship' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,787 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'place_of_worship' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,787 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'university' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,787 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'cafe' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,788 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'post_office' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,788 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'townhall' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,788 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'townhall' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,788 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'greenhouse' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,788 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'greenhouse' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,788 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'hospital' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,788 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'hospital' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,788 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'roof' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,788 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'roof' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,788 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'civic' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,788 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'civic' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,789 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'grave_yard' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,789 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'grave_yard' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,789 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'house' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,789 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'garage' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,789 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'garage' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,789 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'shed' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,789 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'shed' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,789 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'social_facility' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,789 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'social_facility' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,789 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'shelter' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,789 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'shelter' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,789 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'events_venue' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,789 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'events_venue' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,790 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'ice_cream' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,790 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'ice_cream' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,790 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'fuel' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,790 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'fuel' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,791 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'car_wash' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,791 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'car_wash' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,791 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'supermarket' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,791 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'supermarket' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,791 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'office' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,791 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'toilets' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,791 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'toilets' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,791 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'college' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,791 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'college' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,792 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'apartments' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,792 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'commercial' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,792 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'pub' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,794 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'pub' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,794 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'restaurant' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,794 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'church' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,794 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'church' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,794 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'retail' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,794 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'bank' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,794 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'shower' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,794 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'shower' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,794 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'fire_station' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,794 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'fire_station' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,794 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'veterinary' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,794 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'veterinary' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,794 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'silo' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,794 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'silo' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,794 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'courthouse' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,795 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'courthouse' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,795 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'fast_food' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,795 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'chapel' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,795 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'chapel' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,795 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'community_centre' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,795 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'community_centre' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,795 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'fountain' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,795 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'fountain' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,796 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'stadium' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,796 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'trailer_park' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,796 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'trailer_park' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,796 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'social_centre' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,796 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'social_centre' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,796 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'bar' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,796 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'dentist' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,796 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'dentist' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,796 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'static_caravan' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,796 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'static_caravan' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,796 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'doctors' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,796 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'doctors' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,797 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'residential' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,797 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'bicycle_parking' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,797 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'car_rental' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,797 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'car_rental' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,797 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'barn' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,797 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'barn' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,797 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'recycling' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,797 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'recycling' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,797 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'parking_space' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,797 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'parking_space' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,797 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'cinema' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,797 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'cinema' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,798 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'driving_school' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,798 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'driving_school' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,800 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'boat_storage' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,800 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'boat_storage' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,800 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'waste_disposal' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,800 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'waste_disposal' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,800 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'clinic' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,800 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'clinic' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,800 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'truck_rental' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,800 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'truck_rental' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,800 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'ranger_station' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,800 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'ranger_station' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,800 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'sty' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,800 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'sty' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,800 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'chicken_coop' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,800 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'chicken_coop' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,800 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of 'grandstand' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,800 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of 'grandstand' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,801 - grid2demand_0330a.py[line:898] - INFO: The POI production rate of '' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,801 - grid2demand_0330a.py[line:913] - INFO: The POI attraction rate of '' is NOT defined! Default production rate is 0.1.
+2021-04-01 22:30:03,803 - grid2demand_0330a.py[line:918] - INFO: Tab of trip purpose used in grid2demand = 1
+2021-04-01 22:30:03,803 - grid2demand_0330a.py[line:920] - INFO: Total number of poi nodes with unmatched production rates = 1566
+2021-04-01 22:30:03,803 - grid2demand_0330a.py[line:922] - INFO: Total number of poi nodes with unmatched attraction rates = 598
+2021-04-01 22:30:03,812 - grid2demand_0330a.py[line:971] - WARNING: Production value of residential nodes is not defined! Default value is 10.
+2021-04-01 22:30:03,814 - grid2demand_0330a.py[line:974] - WARNING: Attraction value of residential nodes is not defined! Default value is 10.
+2021-04-01 22:30:03,816 - grid2demand_0330a.py[line:977] - WARNING: Production value of boundary nodes is not defined! Default value is 1000.
+2021-04-01 22:30:03,818 - grid2demand_0330a.py[line:980] - WARNING: Attraction value of boundary nodes is not defined! Default value is 1000.
+2021-04-01 22:30:03,821 - grid2demand_0330a.py[line:1022] - INFO: This is not a node producing or attracting demand. Default value of production and attraction is 0.
+2021-04-01 22:30:04,736 - grid2demand_0330a.py[line:1115] - INFO: Latitude used for grid2demand = 30
+2021-04-01 22:30:04,757 - grid2demand_0330a.py[line:1149] - INFO: Number of OD pairs = 2025
+2021-04-01 22:30:04,762 - grid2demand_0330a.py[line:1165] - INFO: Largest accessibility of distance = 67.18 km
+2021-04-01 22:30:04,764 - grid2demand_0330a.py[line:1166] - INFO: Average accessibility of distance = 27.86 km
+2021-04-01 22:30:04,778 - grid2demand_0330a.py[line:1219] - INFO: Default values of friction factor coefficients under trip purpose 1: 
+a=28507
+b=-0.02
+c=-0.123
+2021-04-01 22:30:04,850 - grid2demand_0330a.py[line:1334] - INFO: Zone-to-zone OD pair with largest volume is from Gate18 to Gate17
+2021-04-01 22:30:04,872 - grid2demand_0330a.py[line:1379] - INFO: Origin zone with largest production volume is Gate18
+2021-04-01 22:30:04,873 - grid2demand_0330a.py[line:1380] - INFO: Destination zone with largest attraction volume is Gate18
+2021-04-01 22:30:15,799 - grid2demand_0330a.py[line:1423] - INFO: Number of agents = 1196519
