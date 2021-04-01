@@ -1,0 +1,141 @@
+stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding
+2392460,,,Shawnee Manor,,40.705746733909,-84.148059033489,,,0,,America/New_York,,,1
+2392461,,,Shawnee Business Park North,,40.6986323368027,-84.1512916566692,,,0,,America/New_York,,,1
+2392463,,,Elmview Pizza,,40.686513263014,-84.149095898697,,,0,,America/New_York,,,1
+2392464,,,Central Point Parkway,,40.705250502408,-84.09714521204,,,0,,America/New_York,,,1
+2392465,,,Shawnee Industrial Center,,40.691392040345,-84.12028905072,,,0,,America/New_York,,,1
+2392466,,,Ace Hardware,,40.686598461696,-84.12807909401,,,0,,America/New_York,,,1
+2392467,,,Elmview Business Park,,40.686444269947,-84.150390486415,,,0,,America/New_York,,,1
+2392468,,,Apollo Career Center,,40.6931429768302,-84.1497692131111,,,0,,America/New_York,,,1
+2392469,,,Shawnee Business Park South,,40.6985479574196,-84.1514924045301,,,0,,America/New_York,,,1
+2392470,,,Shawnee Plaza North,,40.704653349033,-84.150731052291,,,0,,America/New_York,,,1
+2392471,,,Bradfield Center,,40.7342088737477,-84.1190664177798,,,0,,America/New_York,,,1
+2392472,,,YMCA Annex,,40.738652,-84.1083,,,0,,America/New_York,,,1
+2392473,,,Habitat Restore,,40.737621059187,-84.113271696503,,,0,,America/New_York,,,1
+2392474,,,Husky Refinery,,40.7216162692498,-84.1133956685211,,,0,,America/New_York,,,1
+2392475,,,Occupational Health,,40.7092110767756,-84.1171129174012,,,0,,America/New_York,,,1
+2392476,,,Orthopedic Institute,,40.697109,-84.087,,,0,,America/New_York,,,1
+2392477,,,Precision Thermoplastic,,40.686521274517,-84.0896555044432,,,0,,America/New_York,,,1
+2392478,,,Heart Institute,,40.693271,-84.09,,,0,,America/New_York,,,1
+2392479,,,Marathon Station,,40.702057,-84.0904,,,0,,America/New_York,,,1
+2392480,,,Beer Barrel Pizza (Dixie Highway),,40.709608589736,-84.118107613164,,,0,,America/New_York,,,1
+2392481,,,Job and Family Services South [deprecated],,40.714429444778,-84.11583540015,,,0,,America/New_York,,,1
+2392482,,,Mello Crème,,40.726804975874,-84.113426260453,,,0,,America/New_York,,,1
+2392483,,,Liberty School,,40.730215216985,-84.10968181822,,,0,,America/New_York,,,1
+2392484,,,Dollar General (Kibby Street),,40.730307867232,-84.104713570903,,,0,,America/New_York,,,1
+2392485,,,WOCAP,,40.730793523435,-84.102280463311,,,0,,America/New_York,,,1
+2392486,,,Superior Credit Union,,40.730569069848,-84.084411620612,,,0,,America/New_York,,,1
+2392487,,,P and G (Cool Road),,40.755371975554,-83.994169915889,,,0,,America/New_York,,,1
+2392488,,,Marimor Industries,,40.757524306744,-84.061575633379,,,0,,America/New_York,,,1
+2392489,,,Lima Pallet,,40.770317266957,-84.080135857952,,,0,,America/New_York,,,1
+2392490,,,Ford Plant,,40.7738,-84.0879,,,0,,America/New_York,,,1
+2392491,,,Nickles Bakery,,40.76750311778,-84.089459954431,,,0,,America/New_York,,,1
+2392492,,,Schoonover Pool,,40.752628720548,-84.093963848839,,,0,,America/New_York,,,1
+2392493,,,Federal Building,,40.7426,-84.11004,,,0,,America/New_York,,,1
+2392494,,,St. Rita's Shelter (North Street),,40.742510430958,-84.119390707293,,,0,,America/New_York,,,1
+2392495,,,Dollar General,,40.742559616284,-84.124774820824,,,0,,America/New_York,,,1
+2392496,,,Lee's Chicken Allentown Road,,40.7446,-84.13249,,,0,,America/New_York,,,1
+2392497,,,Lima Dental,,40.74637073472,-84.139333459506,,,0,,America/New_York,,,1
+2392498,,,West Middle School,,40.744908965627,-84.146823135351,,,0,,America/New_York,,,1
+2392499,,,Beer Barrel Pizza (Market Street),,40.73969,-84.15703,,,0,,America/New_York,,,1
+2392500,,,West Elm Plaza - Regal Cinemas,,40.737058854198,-84.1575733427507,,,0,,America/New_York,,,1
+2392501,,,Ohio State Beauty Academy,,40.7622,-84.1651,,,0,,America/New_York,,,1
+2392502,,,WalMart (Allentown),,40.75179,-84.15369,,,0,,America/New_York,,,1
+2392503,,,UNOH Event Center,,40.75932,-84.14698,,,0,,America/New_York,,,1
+2392504,,,Chase Bank - Clock Tower Plaza,,40.751325619699,-84.146947836605,,,0,,America/New_York,,,1
+2392505,,,Lochhaven,,40.746098037598,-84.137645590468,,,0,,America/New_York,,,1
+2392506,,,Lima Sporting Goods Store,,40.744868879749,-84.13287952628,,,0,,America/New_York,,,1
+2392507,,,St. Rita's Shelter (Charles Street),,40.741264673924,-84.122501599709,,,0,,America/New_York,,,1
+2392508,,,Veteran's Food Pantry,,40.74277,-84.1146,,,0,,America/New_York,,,1
+2392509,,,Our Daily Bread,,40.739124,-84.102177,,,0,,America/New_York,,,1
+2392510,,,House of Style/Thai Jasmine,,40.736183108699,-84.098967405299,,,0,,America/New_York,,,1
+2392511,,,South Middle School,,40.728022,-84.098841,,,0,,America/New_York,,,1
+2392512,,,2nd and St. Johns Avenue,,40.721862903897,-84.097126441061,,,0,,America/New_York,,,1
+2392513,,,Unity Elementary,,40.719628116249,-84.089874937619,,,0,,America/New_York,,,1
+2392514,,,Lima Apartments,,40.716654,-84.0955,,,0,,America/New_York,,,1
+2392515,,,Health Partners,,40.711649393221,-84.100799121041,,,0,,America/New_York,,,1
+2392516,,,Country View Estates,,40.710434,-84.1016,,,0,,America/New_York,,,1
+2392517,,,7th and S. Main Street,,40.713053,-84.1054,,,0,,America/New_York,,,1
+2392518,,,2nd and S. Main Street,,40.71831981129,-84.105221807873,,,0,,America/New_York,,,1
+2392519,,,Coleman's/Lima Towers,,40.727805754816,-84.105172716093,,,0,,America/New_York,,,1
+2392520,,,Lima Fabric Care Center,,40.731606676011,-84.105168604888,,,0,,America/New_York,,,1
+2392521,,,YMCA (S. Main Street),,40.73689836196,-84.10512107546,,,0,,America/New_York,,,1
+2392522,,,Northview Creamery,,40.751141,-84.105174,,,0,,America/New_York,,,1
+2392523,,,St. Gerard School,,40.759597561002,-84.105144384693,,,0,,America/New_York,,,1
+2392524,,,Northland Plaza,,40.765726,-84.105089,,,0,,America/New_York,,,1
+2392525,,,Burger King,,40.770121,-84.1089,,,0,,America/New_York,,,1
+2392526,,,Lima Manor,,40.769933,-84.1174,,,0,,America/New_York,,,1
+2392527,,,Willow Lake Apartments,,40.769535,-84.1217,,,0,,America/New_York,,,1
+2392528,,,Lima West Apartments,,40.762944544721,-84.127794542482,,,0,,America/New_York,,,1
+2392529,,,Family Dollar,,40.759132,-84.1152,,,0,,America/New_York,,,1
+2392530,,,Eagles,,40.759095,-84.1165,,,0,,America/New_York,,,1
+2392531,,,Robb Park (Robb Avenue),,40.759149657647,-84.113567702748,,,0,,America/New_York,,,1
+2392532,,,North Middle School,,40.75908,-84.1091,,,0,,America/New_York,,,1
+2392533,,,St. Gerard Church,,40.75913,-84.10701,,,0,,America/New_York,,,1
+2392534,,,Rich Gas Station,,40.748593,-84.1048,,,0,,America/New_York,,,1
+2392535,,,Mission,,40.742483793554,-84.102094778411,,,0,,America/New_York,,,1
+2392536,,,St. Rose School,,40.746425627303,-84.108672257719,,,0,,America/New_York,,,1
+2392537,,,Independence Elementary (Southbound),,40.754965586584,-84.113515892126,,,0,,America/New_York,,,1
+2392538,,,Pat's Donuts (Elida Road),,40.759823,-84.142,,,0,,America/New_York,,,1
+2392539,,,Fairfield Inn,,40.761046,-84.1459,,,0,,America/New_York,,,1
+2392540,,,Captain D's,,40.764557859619,-84.153228851208,,,0,,America/New_York,,,1
+2392541,,,Biolife,,40.779013977663,-84.183429549656,,,0,,America/New_York,,,1
+2392542,,,Meijer,,40.77056,-84.161228,,,0,,America/New_York,,,1
+2392543,,,Lima Mall - West Side (Macy's),,40.7661,-84.1528,,,0,,America/New_York,,,1
+2392544,,,Lima Mall - East Side (Sears),,40.7649,-84.148,,,0,,America/New_York,,,1
+2392545,,,Liberty Retirement Community,,40.767289480139,-84.144803558999,,,0,,America/New_York,,,1
+2392546,,,Richelieu Apartments,,40.769566957758,-84.131260831572,,,0,,America/New_York,,,1
+2392548,,,Save A Lot,,40.758856143096,-84.126582090682,,,0,,America/New_York,,,1
+2392549,,,Furl Williams Apartments,,40.759007,-84.1219,,,0,,America/New_York,,,1
+2392550,,,Robb Park,,40.758668,-84.1133,,,0,,America/New_York,,,1
+2392551,,,Samaritan House,,40.746511119193,-84.10525608014,,,0,,America/New_York,,,1
+2392552,,,Court House (Northbound),,40.744128,-84.1048,,,0,,America/New_York,,,1
+2392553,,,Meat City,,40.730744982045,-84.094016479416,,,0,,America/New_York,,,1
+2392554,,,Nelsons Packaging,,40.743661196237,-84.069790162182,,,0,,America/New_York,,,1
+2392555,,,P and G Reservoir,,40.745478532274,-84.059105010117,,,0,,America/New_York,,,1
+2392556,,,Lee's Chicken Bellefontine,,40.736267,-84.0886,,,0,,America/New_York,,,1
+2392557,,,Verizon,,40.730715,-84.078519,,,0,,America/New_York,,,1
+2392558,,,Pat's Donuts (Harding Highway),,40.730806,-84.0721,,,0,,America/New_York,,,1
+2392559,,,WalMart (Harding Highway),,40.730950001381,-84.057991508892,,,0,,America/New_York,,,1
+2392560,,,Rhodes State/OSU,,40.738468926467,-84.026549393345,,,0,,America/New_York,,,1
+2392561,,,Eastwood Mobile Homes,,40.730984,-84.044081,,,0,,America/New_York,,,1
+2392562,,,WalMart East,,40.72953,-84.05916,,,0,,America/New_York,,,1
+2392563,,,Eastgate Shopping Plaza,,40.72859,-84.06786,,,0,,America/New_York,,,1
+2392564,,,Sam's Club,,40.72542,-84.07282,,,0,,America/New_York,,,1
+2392565,,,Bob Evans Restaurant,,40.73017,-84.07244,,,0,,America/New_York,,,1
+2392566,,,Kewpee,,40.73177,-84.08184,,,0,,America/New_York,,,1
+2392567,,,Lima Memorial Hospital,,40.73614,-84.08482,,,0,,America/New_York,,,1
+2392568,,,Happy Daz,,40.73377,-84.08507,,,0,,America/New_York,,,1
+2392569,,,CVS Pharmacy,,40.737089,-84.0905,,,0,,America/New_York,,,1
+2392570,,,Lima Senior,,40.74107848997,-84.100155338904,,,0,,America/New_York,,,1
+2392571,,,YMCA,,40.737197197696,-84.106603630507,,,0,,America/New_York,,,1
+2392572,,,Ruler Foods,,40.7372,-84.1107,,,0,,America/New_York,,,1
+2392573,,,ReStore,,40.737281002054,-84.113604300718,,,0,,America/New_York,,,1
+2392574,,,Elm Street and Collet Street,,40.737222118017,-84.119340181245,,,0,,America/New_York,,,1
+2392575,,,Lowell Elementary,,40.737159523811,-84.124897975629,,,0,,America/New_York,,,1
+2392576,,,Elm Street and Cole Street,,40.737117026052,-84.128009483551,,,0,,America/New_York,,,1
+2392577,,,Woodlawn Street,,40.73359766953,-84.132395295812,,,0,,America/New_York,,,1
+2392578,,,LuLu's,,40.730361637018,-84.137576755693,,,0,,America/New_York,,,1
+2392579,,,Fat Jacks Pizza,,40.730336071553,-84.141115539158,,,0,,America/New_York,,,1
+2392580,,,Chief Grocery Store,,40.729475931158,-84.146815734339,,,0,,America/New_York,,,1
+2392581,,,Lima Central Catholic School,,40.730912526396,-84.146822373584,,,0,,America/New_York,,,1
+2392582,,,Cable Intersection,,40.739926,-84.146957,,,0,,America/New_York,,,1
+2392583,,,Woodlawn Intersection,,40.7401,-84.1315,,,0,,America/New_York,,,1
+2392584,,,Cole Street Intersection,,40.7401,-84.1273,,,0,,America/New_York,,,1
+2392585,,,St Ritas Emergency,,40.7401,-84.119,,,0,,America/New_York,,,1
+2392586,,,Lima Terminal (Union Street),,40.741052,-84.103098,,,0,,America/New_York,,,1
+2394815,,,CUP Food Pantry North,,40.738521435712,-84.118819225096,,,0,,America/New_York,,,1
+2394817,,,Shawnee Plaza South,,40.704563250084,-84.150215132512,,,0,,America/New_York,,,1
+2394893,,,Job and Family Services North [deprecated],,40.714188550023,-84.115778438771,,,0,,America/New_York,,,1
+2421988,,,Lima Terminal (High Street),,40.741273636611,-84.102804873751,,,0,,America/New_York,,,1
+2696015,,,Library,,40.7400692571281,-84.1152041827533,,,0,,America/New_York,,,0
+2696027,,,Independence Elementary (Northbound),,40.7549190081358,-84.113375655741,,,0,,America/New_York,,,0
+2696028,,,Maplewood Apartments,,40.7699555646253,-84.1125453493406,,,0,,America/New_York,,,0
+2696051,,,Court House (Southbound),,40.7441501566283,-84.1051317494118,,,0,,America/New_York,,,0
+2696059,,,Elmcroft Senior Living,,40.7665490690823,-84.1662237597663,,,0,,America/New_York,,,0
+2696060,,,LMH Medical Park,,40.7455160772484,-84.1661003385789,,,0,,America/New_York,,,0
+2696069,,,JSMC,,40.7087105538897,-84.1287888055296,,,0,,America/New_York,,,0
+2696076,,,Wannamacher South,,40.7153872275113,-84.1153961326505,,,0,,America/New_York,,,0
+2696077,,,Wannamacher North,,40.7154315856857,-84.1151771113633,,,0,,America/New_York,,,0
+2696080,,,Job and Family Services/Ohio Means Jobs,,40.6943899594599,-84.0922780938138,,,0,,America/New_York,,,0
+2696083,,,BEF,,40.6967467932517,-84.096638811978,,,0,,America/New_York,,,0

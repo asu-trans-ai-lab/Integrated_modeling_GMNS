@@ -1,0 +1,4 @@
+service_id,date,holiday_name,exception_type
+c_6122_b_6534_d_31,20210531,Memorial Day,2
+c_6122_b_6534_d_31,20210101,New Year's Day,2
+c_6122_b_6534_d_31,20201225,Christmas Day,2

@@ -1,0 +1,9 @@
+route_id,direction_id,direction
+7406,0,No direction
+7407,0,No direction
+7408,0,No direction
+7409,0,No direction
+7410,0,No direction
+7411,0,No direction
+7413,0,No direction
+7414,0,No direction

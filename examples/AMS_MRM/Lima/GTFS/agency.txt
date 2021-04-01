@@ -1,0 +1,2 @@
+agency_id,agency_url,agency_lang,agency_name,agency_phone,agency_timezone,agency_fare_url
+747,http://www.acrta.com,en,Allen County Regional Transit Authority,419-222-2782,America/New_York,http://www.acrta.com/acrta-bus-fares/

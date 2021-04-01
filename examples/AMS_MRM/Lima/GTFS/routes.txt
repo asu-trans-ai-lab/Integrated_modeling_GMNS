@@ -1,0 +1,9 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes,eligibility_restricted,continuous_pickup,continuous_drop_off
+747,7414,1,West Market,,3,http://www.acrta.com/acrta-schedule-routes/route-1-west-market/,267300,FFFFFF,1,60,0,1,1
+747,7413,2,Eastgate,,3,http://www.acrta.com/acrta-schedule-routes/route-2-eastgate/,ff0000,FFFFFF,2,60,0,1,1
+747,7411,3,Lima Mall,,3,http://www.acrta.com/acrta-schedule-routes/route-3-lima-mall/,73dfff,000000,4,60,0,1,1
+747,7410,4,North Main,,3,http://www.acrta.com/acrta-schedule-routes/route-4-north-main/,8400a8,FFFFFF,5,60,0,1,1
+747,7409,5,South Main,,3,http://www.acrta.com/acrta-schedule-routes/route-5-south-main/,ff5500,FFFFFF,6,60,0,1,1
+747,7408,6,West North,,3,http://www.acrta.com/acrta-schedule-routes/route-6-west-north/,730000,FFFFFF,7,60,0,1,1
+747,7407,7,North East,,3,http://www.acrta.com/acrta-schedule-routes/route-7-northeast-cool-rd/,2375a8,FFFFFF,8,60,0,1,1
+747,7406,8,South Metcalf/Shawnee ,,3,http://www.acrta.com/acrta-schedule-routes/route-8-south-metcalf-shawnee/,ffff00,000000,9,60,0,1,1
