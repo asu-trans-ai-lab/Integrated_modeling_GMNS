@@ -27,16 +27,18 @@ improve integration and modeling accuracy.
 
 The continuous flow of GMNS-AMS modeling:
 
-| Step | Description                                    | Software                                                                                                      | Input Files                                            | Output Files                                             |
-|------|------------------------------------------------|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------|
-| 0    | OSM data download                              | [Open Street Map(OSM)](https://www.openstreetmap.org/#map=14/47.6573/-122.3252)                               | \- -                                                   | Map.osm                                                  |
-| 1    | Convert OSM data to GMNS                       | [OSM2GMNS](https://github.com/asu-trans-ai-lab/OSM2GMNS)                                                      | Map.osm                                                | Node.csv, Link.csv, poi.csv                              |
-| 2    | Convert GTFS data to GMNS                      | [GTFS2GMNS](https://github.com/asu-trans-ai-lab/GTFS2GMNS)                                                    | Open transit data GTFS                                 | Node.csv, Link.csv, poi.csv                              |
-| 3    | Expand macroscopic network data to micro, meso | [net2cell](https://github.com/asu-trans-ai-lab/net2cell)                                                      | Node.csv, Link.csv                                     | Meso and micro networks in node.csv and link.csv         |
-| 4    | Zone-to-zone travel demand                     | [grid2demand](https://github.com/asu-trans-ai-lab/grid2demand)                                                | Node.csv, Link.csv, Poi.csv, Poi_trip_rate.csv         | Demand.csv, Zone.csv, Accessibility.csv, Input_agent.csv |
-| 5    | Traffic signal for timing                      | Signal2timing (In development), [Sigma-X](https://github.com/milan1981/Sigma-X)                               | Node.csv, Link.csv, Movement.csv                       | Timing.csv                                               |
-| 6    | AMS simulation                                 | [A/B Street](https://github.com/dabreegster/abstreet), [DTALite](https://github.com/asu-trans-ai-lab/DTALite) | Demand.csv, Node.csv, Link.csv, Input_agent.csv        | Agent.csv, Link_performance.csv                          |
-| 7    | Visualization                                  | [QGIS](https://www.qgis.org/en/site/), [NeXTA](https://github.com/asu-trans-ai-lab/NeXTA-GMNS)                | Node.csv, Link.csv, Movement.csv, Zone.csv, Demand.csv | \- -                                                     |
+| Step | Description                                    | Software                                                                                                                 | Input Files                                            | Output Files                                             |
+|------|------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------|
+| 0    | OSM data download                              | [Open Street Map(OSM)](#map=14/47.6573/-122.3252)                                                                        | \- -                                                   | Map.osm                                                  |
+| 1    | Convert OSM data to GMNS                       | [OSM2GMNS](https://github.com/asu-trans-ai-lab/OSM2GMNS)                                                                 | Map.osm                                                | Node.csv, Link.csv, poi.csv                              |
+| 2    | Convert GTFS data to GMNS                      | [GTFS2GMNS](https://github.com/asu-trans-ai-lab/GTFS2GMNS)                                                               | Open transit data GTFS                                 | Node.csv, Link.csv, poi.csv                              |
+| 3    | Expand macroscopic network data to micro, meso | [net2cell](https://github.com/asu-trans-ai-lab/net2cell)                                                                 | Node.csv, Link.csv                                     | Meso and micro networks in node.csv and link.csv         |
+| 4    | Zone-to-zone travel demand                     | [grid2demand](https://github.com/asu-trans-ai-lab/grid2demand)                                                           | Node.csv, Link.csv, Poi.csv, Poi_trip_rate.csv         | Demand.csv, Zone.csv, Accessibility.csv, Input_agent.csv |
+| 5    | Traffic signal for timing                      | Data2timing (In development), [Sigma-X](https://github.com/milan1981/Sigma-X)                                            | Node.csv, Link.csv, Movement.csv                       | Timing.csv                                               |
+| 6    | Capacity estimation and VDF calibration        | Data2vdf                                                                                                                 | link_performance.csv                                   | vdf_table.csv link.csv                                   |
+| 7    | AMS simulation                                 | [A/B Street](https://github.com/dabreegster/abstreet),  Path2GMNS [DTALite](https://github.com/asu-trans-ai-lab/DTALite) | Demand.csv, Node.csv, Link.csv, Input_agent.csv        | Agent.csv, Link_performance.csv                          |
+| 8    | OD Matrix estimation                           | Data2demand                                                                                                              | link_performance.csv Agent.csv                         | Demand.csv,                                              |
+| 9    | Visualization                                  | [QGIS](https://www.qgis.org/en/site/), [NeXTA](https://github.com/asu-trans-ai-lab/NeXTA-GMNS)                           | Node.csv, Link.csv, Movement.csv, Zone.csv, Demand.csv | \- -                                                     |
 
 ## Step 0: Download Map File
 
@@ -131,7 +133,14 @@ be used in Sigma-X: an Excel-based Quick Estimation Method.
 
 ![](https://github.com/xzhou99/Signal2timing/blob/master/doc/img/qem.png)
 
-## Step 6: AMS Simulation
+## Step 6: Capacity estimation and VDF calibration
+
+Calibrate hourly capacities for each facility type and area type and calibrate
+period capacity for each assignment periods (e.g. AM, PM, etc.). Calibrate
+coefficients in the volume delay function (e.g., the “alpha” and “beta” in the
+BPR function)
+
+## Step 7: AMS Simulation
 
 A mesoscopic DTA engine called DTALite can be run directly within NeXTA. DTALite
 is a mesoscopic simulation-assignment framework that uses a computationally
@@ -144,9 +153,15 @@ closely for **adapting the proposed AMS data hub framework and improve the
 software efficiency.**
 
 A/B Street:
-![](https://github.com/chnfanyu/abstreet/blob/master/book/evaluating_impacts.gif)
+![](<https://github.com/chnfanyu/abstreet/blob/master/book/evaluating_impacts.gif>)
 
-## Step 7: Data Visualization.
+## Step 8: OD Matrix estimation (Data2Demand)
+
+Derive the OD matrix from the observations of link counts or speed, as well as
+the candidate paths generated AMS simulation (i.e., path4gmns) using the
+customized computational graph developed using Tensorflow.
+
+## Step 9: Data Visualization.
 
 Visualization is an increasingly important element of transportation analysis
 and is an integral part of any AMS data hub. The common visualization tools used
