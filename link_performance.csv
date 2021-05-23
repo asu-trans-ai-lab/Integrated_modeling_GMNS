@@ -1,0 +1,4 @@
+link_id,from_node_id,to_node_id,timestamp,time_period,volume,travel_time,speed,density,queue,volume,notes
+0,0,1,YYYY-MM-DD, 0700_0800,1800,0.994,27.54051773,,1,,
+1,2,3,,,1800,0.994,33.82074884,,1,,
+2,4,5,,,1800,1.025,39.78682031,,1,,
