@@ -38,7 +38,7 @@ The continuous flow of GMNS-AMS modeling:
 | 6    | Capacity estimation and VDF calibration        | Data2vdf                                                                                                                | link_performance.csv                                   | vdf_table.csv link.csv                                   |
 | 7    | AMS simulation                                 | [A/B Street](https://github.com/dabreegster/abstreet), Path2GMNS [DTALite](https://github.com/asu-trans-ai-lab/DTALite) | Demand.csv, Node.csv, Link.csv, Input_agent.csv        | Agent.csv, Link_performance.csv                          |
 | 8    | OD Matrix estimation                           | Data2demand                                                                                                             | link_performance.csv Agent.csv                         | Demand.csv,                                              |
-| 9    | Visualization                                  | [QGIS](https://www.qgis.org/en/site/), [NeXTA]([https://github.com/asu-trans-ai-lab/NeXTA-GMNS](https://github.com/asu-trans-ai-lab/NeXTA4GMNS))                          | Node.csv, Link.csv, Movement.csv, Zone.csv, Demand.csv | \- -                                                     |
+| 9    | Visualization                                  | [QGIS](https://www.qgis.org/en/site/), [NeXTA]https://github.com/asu-trans-ai-lab/NeXTA4GMNS)                          | Node.csv, Link.csv, Movement.csv, Zone.csv, Demand.csv | \- -                                                     |
 
 ## Step 0: Download Map File
 
